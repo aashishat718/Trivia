@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="trivia">Trivia</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="previous_text">Previous</string>
+    <string name="next_text">next</string>
+    <string name="ini_counter_text">0 out of 100</string>
+    <string name="ques_appear">Questions appear here!</string>
+    <string name="wrong_text">Wrong!</string>
+    <string name="correct_text">Correct!!!!</string>
+    <string name="highest_score">Highest score</string>
+    <string name="current_score">Current score</string>
+    <string name="share">share</string>
+</resources>
